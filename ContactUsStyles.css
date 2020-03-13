@@ -19,4 +19,9 @@ html {
     cursor: pointer;
     font-family: "Brush Script MT", cursive;
   }
-  
+  .flex-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
