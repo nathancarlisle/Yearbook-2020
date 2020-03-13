@@ -97,3 +97,11 @@ html {
   from {opacity: .4}
   to {opacity: 1}
 }
+.fex-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
